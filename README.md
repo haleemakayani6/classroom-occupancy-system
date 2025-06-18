@@ -1,4 +1,4 @@
-# classroom-occupancy-system
+# Classroom-Occupancy-System
 
                CLASSROOM OCCUPANCY MANAGEMENT SYSTEM
 
