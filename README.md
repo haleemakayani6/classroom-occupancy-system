@@ -2,7 +2,6 @@
 
                CLASSROOM OCCUPANCY MANAGEMENT SYSTEM
 
-
 DESCRIPTION:
 ------------
 A complete, menu-driven C++ console application for managing 
@@ -12,7 +11,7 @@ provides functionalities for classroom allocations, teacher
 assignments, student management, room occupancy reporting, and 
 data saving — all through an interactive command-line interface.
 
-=================================================================
+
 PROJECT MOTIVATION:
 -------------------
 This project aims to:
@@ -22,14 +21,13 @@ This project aims to:
 - Simulate a real-world classroom management system.
 - Build a simple, interactive console application for academic use.
 
-=================================================================
+
 TECHNOLOGIES USED:
 ------------------
 - Programming Language : C++
 - Compiler             : GCC / g++
 - User Interface       : Console-based (command-line)
 
-=================================================================
 PROJECT STRUCTURE:
 ------------------
 Project/
@@ -37,7 +35,7 @@ Project/
 ├── 3.cpp        → Complete source code file
 └── README.txt   → Project documentation (this file)
 
-=================================================================
+
 SYSTEM DESIGN OVERVIEW:
 ------------------------
 
@@ -69,7 +67,7 @@ SYSTEM DESIGN OVERVIEW:
      - Functions for adding classrooms, searching, transfers,
        displaying summaries, and saving data.
 
-=================================================================
+
 FEATURE HIGHLIGHTS:
 -------------------
 ✔ Add Classrooms with capacity limit  
@@ -82,7 +80,6 @@ FEATURE HIGHLIGHTS:
 ✔ Save current data (formatted console output)  
 ✔ Simple, menu-driven console interface  
 
-=================================================================
 HOW TO COMPILE & RUN:
 ---------------------
 
@@ -92,7 +89,6 @@ HOW TO COMPILE & RUN:
  To Run:
    ./classroom_system
 
-=================================================================
 MENU OPTIONS:
 -------------
   1. Add Classroom  
@@ -107,7 +103,7 @@ MENU OPTIONS:
  10. Save Data  
  11. Exit  
 
-=================================================================
+
 EXAMPLE OPERATIONS:
 -------------------
 
@@ -132,13 +128,13 @@ EXAMPLE OPERATIONS:
 - Save Data:
   → Outputs all room data in structured format.
 
-=================================================================
+
 DATA SAVE FORMAT EXAMPLE:
 -------------------------
 
 Room:101|Capacity:40|Students:12,Ali;14,Sana;|Teacher:22,Mr. Kamran
 
-=================================================================
+
 OCCUPANCY STATUS EXAMPLE:
 -------------------------
 
